@@ -1,12 +1,12 @@
 ## Enhanced Tensor RPCA and Its Application
 
 Simple implementation of our paper ETRPCA.
-The details can be found in the TPAMI paper [here](https://ieeexplore.ieee.org/document/9170824/citations?tabFilter=papers).
+The details can be found in [our TPAMI paper](https://ieeexplore.ieee.org/document/9170824/citations?tabFilter=papers).
 
 ### requirements
 - MATLAB R2018b
-- The other dataset ori_noise_10.mat can be downloaded [here](https://drive.google.com/file/d/1YEh5y0dKZxwORFhfFflcPX0JQTp_xx8L/view?usp=sharing)
-- Put the ori_noise_10.mat in the folder "Dataset"
+- The other dataset [ori_noise_10.mat](https://drive.google.com/file/d/1YEh5y0dKZxwORFhfFflcPX0JQTp_xx8L/view?usp=sharing)
+- Put the [ori_noise_10.mat](https://drive.google.com/file/d/1YEh5y0dKZxwORFhfFflcPX0JQTp_xx8L/view?usp=sharing) in the folder "Dataset"
 
 
 ### run
