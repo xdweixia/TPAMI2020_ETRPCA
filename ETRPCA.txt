@@ -1,0 +1,5 @@
+The results of the 1-th sample:   PSNR：38.6576   SSIM：0.98732
+The results of the 2-th sample:    PSNR：38.812    SSIM：0.9866
+The results of the 1-th sample:   PSNR：38.6576   SSIM：0.98732
+The results of the 2-th sample:    PSNR：38.812    SSIM：0.9866
+The results of the 10-th sample:    PSNR：38.387   SSIM：0.98996
