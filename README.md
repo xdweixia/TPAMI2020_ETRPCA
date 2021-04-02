@@ -5,6 +5,8 @@ The details can be found in the TPAMI paper [here](https://ieeexplore.ieee.org/d
 
 ### requirements
 - MATLAB R2018b
+- The other dataset ori_noise_10.mat can be downloaded [here](https://drive.google.com/file/d/1YEh5y0dKZxwORFhfFflcPX0JQTp_xx8L/view?usp=sharing)
+- Put the ori_noise_10.mat in the folder "Dataset"
 
 
 ### run
