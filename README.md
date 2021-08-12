@@ -19,16 +19,18 @@ ETRPCA_Main.m
 If you find our approach useful in your research, please consider citing:
 
 ```
-@article{GZXTPAMI2020,
-  author = {Quanxue Gao and
-            Pu Zhang and
-            Wei Xia and
-            De{-}Yan Xie and
-            Xinbo Gao and
-            Dacheng Tao},
-  title = {Enhanced Tensor RPCA and Its Application},
+@article{GaoZXXGT21,
+  author    = {Quanxue Gao and
+               Pu Zhang and
+               Wei Xia and
+               De{-}Yan Xie and
+               Xinbo Gao and
+               Dacheng Tao},
+  title     = {Enhanced Tensor {RPCA} and its Application},
   journal   = {{IEEE} Trans. Pattern Anal. Mach. Intell.},
-  doi = {10.1109/TPAMI.2020.3017672},
-  year = {2020}
+  volume    = {43},
+  number    = {6},
+  pages     = {2133--2140},
+  year      = {2021}
 }
 ```
